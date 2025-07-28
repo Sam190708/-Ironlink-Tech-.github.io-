@@ -1,0 +1,28 @@
+```html
+     <!DOCTYPE html>
+     <html lang="en">
+     <head>
+         <meta charset="UTF-8">
+         <meta name="viewport" content="width=device-width, initial-scale=1.0">
+         <title>About Us - Your Company Name</title>
+         <style>
+             body {
+                 font-family: Arial, sans-serif;
+                 text-align: center;
+                 margin: 50px;
+             }
+             h1 {
+                 color: #333;
+             }
+             p {
+                 color: #666;
+             }
+         </style>
+     </head>
+     <body>
+         <h1>About Us</h1>
+         <p>We are a company dedicated to providing top-notch services to our clients.</p>
+         <p><a href="index.html">Back to Home</a></p>
+     </body>
+     </html>
+     ```
